@@ -1,0 +1,44 @@
+ - public
+ : permanecer favicon.ico e index.html, deletar manifest, logo  e comentários no htlm
+ - src 
+ : permanecer app.js, index.js e app.css
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
