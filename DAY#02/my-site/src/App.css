@@ -1,0 +1,12 @@
+img{
+    display: block;
+}
+
+textarea{
+    display: block;
+}
+
+button{
+    display: block;
+    margin: 7px auto;
+}
