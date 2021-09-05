@@ -1,12 +1,36 @@
+body{
+    background: #3936C0;
+}
+
 img{
+    border: solid 5px red;
     display: block;
+    margin: 60px auto 20px auto;
 }
 
 textarea{
+    margin: 5px auto;
     display: block;
 }
 
 button{
+}
+
+button{  
     display: block;
-    margin: 7px auto;
+    margin: 15px auto;
+    background-color: black;
+    border: none;
+    width: 342px;
+    height: 74px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+
+button:active{
+    opacity: 0.6;
 }
