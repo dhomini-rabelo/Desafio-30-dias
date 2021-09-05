@@ -1,9 +1,9 @@
 body{
     background: #3936C0;
+    font-family: 'Roboto', sans-serif;
 }
 
 img{
-    border: solid 5px red;
     display: block;
     margin: 60px auto 20px auto;
 }
@@ -11,10 +11,12 @@ img{
 textarea{
     margin: 5px auto;
     display: block;
+    width: 342px;
+    border-radius: 20px;
+    text-indent: 20px;
+    outline: none;
 }
 
-button{
-}
 
 button{  
     display: block;
@@ -31,6 +33,26 @@ button{
 }
 
 
-button:active{
-    opacity: 0.6;
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.item{
+    color: #fff;
+    background: rgba(255, 255, 255, 0.14);
+    font-size: 16px;
+    width: 322px;
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    list-style: none;
+    padding: 25px 10px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
 }

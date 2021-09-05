@@ -10,22 +10,33 @@ function App() {
   function comment(){
     const currentAllCommentaries = [... allCommentaries, commentary] 
     setAllCommentaries(currentAllCommentaries)
-  }
-
-  function weText(event){
-    setCommentary(event.target.value)
+    let weTextArea = document.querySelector('textarea')
+    weTextArea.value= ""
+    setCommentary("")
   }
   
+  function text(event){
+    if (event.code === "Enter"){
+      comment()
+      let weTextArea = document.querySelector('textarea')
+      weTextArea.value = ""
+      setCommentary("")
+    }else{
+      setCommentary(event.target.value)
+    }
+  }
+
 
 
   return (
     <div>
+    <h1 class="title">Comente Aqui !!!</h1>
     <img src={imgPeoples} alt="peoples-image" />
-    <textarea onChange={weText} cols="40" rows="4"></textarea>
+    <textarea onChange={text} onKeyUp={text} cols="40" rows="8"></textarea>
     <button onClick={comment}>COMENTAR</button>
     <ul>
     {allCommentaries.map((commentary) => (
-      <li key={allCommentaries.indexOf(commentary)}>{commentary}</li>
+        <li class="item" key={allCommentaries.indexOf(commentary)}>{commentary}</li>
     ))}
     </ul>
     </div>
