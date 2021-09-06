@@ -22,3 +22,37 @@ body{
     flex-direction: column;
     padding: 10px;
 }
+
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin: 30px 0;
+    width: 50px;
+}
+
+nav{
+    width: 100%;
+    text-align: right;
+}
+
+.header-item{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.header-link{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.header-link:hover{
+    color: #fb5283
+}
+
