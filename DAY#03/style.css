@@ -149,6 +149,7 @@ main{
 .controller{
     width: 90%;
     z-index: 2;
+    animation: control-animation 1.8s infinite alternate;
 }
 
 .background-color-control{
@@ -227,4 +228,11 @@ footer img{
     }
 
 
+}
+
+@keyframes control-animation{
+    from{
+        transform: translate(-5%,-5%) rotate(-5deg);
+        /* dois valores em translate pois serve para 2 eixos */
+    }
 }
