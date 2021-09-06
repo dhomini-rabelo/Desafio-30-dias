@@ -56,3 +56,48 @@ nav{
     color: #fb5283
 }
 
+
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+
+.ad{
+    margin-left: 50px;
+}
+
+.ad h2{
+    font-size: 54px;
+}
+
+.ad h3{
+    font-size: 30px;
+    color: #707070;
+    font-weight: 100;
+    margin: 20px 0;
+}
+
+.ad p{
+    font-size: 16px;
+    color: #b7b7b7;
+    font-weight: 100;
+}
+
+.ad h4{
+    font-size: 20px;
+    color: black;
+    margin: 30px 0;
+}
+
+.ad button{
+    width: 140px;
+    border: none;
+    padding: 12px 10px;
+    outline: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    background: linear-gradient(to right, #fb5283, #ff3527);
+}
