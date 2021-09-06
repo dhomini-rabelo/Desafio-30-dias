@@ -42,6 +42,10 @@ nav{
     text-align: right;
 }
 
+.menu-icon{
+    display: none;
+}
+
 .header-item{
     list-style: none;
     display: inline-block;
@@ -164,4 +168,23 @@ footer img{
     height: 20px;
     margin: 20px;
     cursor: pointer;
+}
+
+@media(max-width:760px){
+    #header-links-list{
+        position: relative;
+        top: 60px;
+        left: 60px;
+        overflow: hidden;
+    }
+    .menu-icon{
+        display: block;
+        width: 25px;
+        margin-right: 15px;
+    }
+    .header-item{
+        display: block;
+        margin-top: 5px;
+    }
+
 }
