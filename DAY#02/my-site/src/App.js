@@ -11,16 +11,13 @@ function App() {
     const currentAllCommentaries = [... allCommentaries, commentary] 
     setAllCommentaries(currentAllCommentaries)
     let weTextArea = document.querySelector('textarea')
-    weTextArea.value= ""
+    weTextArea.value = ""
     setCommentary("")
   }
   
   function text(event){
     if (event.code === "Enter"){
       comment()
-      let weTextArea = document.querySelector('textarea')
-      weTextArea.value = ""
-      setCommentary("")
     }else{
       setCommentary(event.target.value)
     }
@@ -36,7 +33,7 @@ function App() {
     <button onClick={comment}>COMENTAR</button>
     <ul>
     {allCommentaries.map((commentary) => (
-        <li class="item" key={allCommentaries.indexOf(commentary)}>{commentary}</li>
+        <li class="item">{commentary}</li>
     ))}
     </ul>
     </div>
