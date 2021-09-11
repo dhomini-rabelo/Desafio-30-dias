@@ -1,0 +1,62 @@
+ = EXTENSÕES 
+ - Dracula Official : tema 
+ - Material Icon Theme : icones para personalização de arquivos e pastas
+ - Color Highlight : preview de uma cor
+ - Bracket Pair Colorizer 2 : Cores para -> [], () e {}
+ - Code Runner : roda código de diversas linguagem no VS Code
+ - Live Server : servidor local com recarregamento automático
+ - GitLens : indica quem fez a alteração no código
+ - Svg preview : permite visualizar Svg dentro do programa 
+ - vscode-pdf : permite visualizar pdf dentro do programa 
+ - Canvas : permite usar o canvas dentro do programa 
+
+ = ATALHOS
+ - Fotonessa mesma pasta
+
+ = FONTE
+ - FiraCode
+
+ = TERMINAL
+ - Comando code no terminal para abrir o programa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
