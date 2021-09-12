@@ -1,0 +1,9 @@
+ = ABSOLUTAS 
+ - cm, in(polegadas) e px
+
+ = RELATIVAS
+ - em -> relativo ao tamanho do elemento pai
+ - rem -> relativo ao tamanho do elemento root, medida padrão da página
+ - % -> relativa ao tamanho do elemento pai
+ - vw -> relativo a largura do tamanho da tela inteira
+ - vh -> relativo a altura do tamanho da tela inteira
