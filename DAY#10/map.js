@@ -5,4 +5,4 @@ const newNumbers = numbers.map((number) => number * number)
 // map functions can receive index and array -> (item, index, array)
 
 
-console.log(newNumbers)
+console.log(`O quadrado dos números de 1 a 10: ${newNumbers}`)

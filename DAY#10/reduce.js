@@ -3,4 +3,4 @@ const initialValueInAccumulator = 0
 
 const totalExpenses = companySalaries.reduce((accumulator, item) => accumulator + item, initialValueInAccumulator)
 
-console.log(totalExpenses)
+console.log(`Valor total de despesas da empresa: R$ ${totalExpenses},00`)
