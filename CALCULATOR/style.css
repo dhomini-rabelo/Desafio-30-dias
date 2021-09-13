@@ -2,4 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+#container{
+    background:  linear-gradient(#686A6C, #F1A23D);
+    width: 100vw;
+    height: 100vh;
 }
