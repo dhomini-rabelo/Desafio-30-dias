@@ -1,0 +1,9 @@
+ = REPRESENTAÇÕES
+ - Nome em inglês
+ - rgb
+ - Hexadecimal
+
+ = LINKS
+ - https://www.w3schools.com/colors/colors_hexadecimal.asp
+ - https://color.adobe.com/pt/create/color-wheel
+ - https://coolors.co/9d44b5-b5446e-525252-badefc-0affed
