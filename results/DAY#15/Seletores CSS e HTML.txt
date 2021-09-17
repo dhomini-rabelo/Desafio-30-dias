@@ -1,0 +1,7 @@
+ = SELETORES
+ - Nome da tag -> p, body, main, footer, etc. 
+ - global -> *
+ - id -> #id
+ - classe -> .class
+ - por atributo -> tag[type="tagType"]
+ - conjunto -> #id, .classe, p {}
