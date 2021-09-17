@@ -1,0 +1,12 @@
+ = Google fonts
+ - import para css e link para html
+ - font-family -> tipo da fonte
+ - font-weight -> expessura da fonte
+ - font-style -> estilo da fonte (normal, italic, bold, ...)
+ - line-height -> espaçamento entre as linhas
+ - letter-spacing -> espaçamento entre as letras
+ - word-spacing -> espaçamento entre as palavras
+ - text-align -> tipo de alinhamento do texto
+ - text-transform -> editor o texto
+ - text-decoration -> decoração para teto, linha em cima ou em baixo
+ - text-shadow -> sombra do texto
