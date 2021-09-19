@@ -58,3 +58,70 @@ input::placeholder{
     display: block;
     padding: 0.4rem;
 }
+
+button[type="submit"]{
+    display: block;
+    margin: 0 auto;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    width: 8.31rem;
+    height: 2.87rem;
+    border: none;
+    border-radius: 0.62rem;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.93rem;
+    line-height: 1.125rem;
+    margin-top: 2.37rem;
+}
+
+.sign-up{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.93rem;
+    line-height: 1.125rem;
+    color: #969696;
+    display: block;
+    margin: 1.31rem auto 3.87rem auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+.sign-up strong{
+    color: #323232;
+}
+
+.or{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 1.4rem;
+}
+
+footer{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+img[alt="dots-logo"]{
+    margin: 0 1.125rem;
+}
+
+@media(max-width: 340px){
+    form, input{
+        width: 16rem;
+    } 
+}
+
+@media(max-width: 260px){
+    form, input{
+        width: 12rem;
+    } 
+    .sign-up{
+        font-size: 0.75rem;
+    }
+}
