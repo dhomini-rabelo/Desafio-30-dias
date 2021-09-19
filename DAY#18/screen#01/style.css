@@ -125,3 +125,24 @@ img[alt="dots-logo"]{
         font-size: 0.75rem;
     }
 }
+
+@media(max-height: 805px){
+    #logo{
+        margin-top: 10rem;
+        margin-bottom: 5rem;
+    }
+}
+
+@media(max-height: 730px){
+    #logo{
+        margin-top: 7rem;
+        margin-bottom: 4rem;
+    }
+}
+
+@media(max-height: 665px){
+    #logo{
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+}
