@@ -6,8 +6,9 @@
 }
 
 body{
-    background-color: #E5E5E5;
+    background-color: white;
 }
+
 
 button{
     display: block;
@@ -27,11 +28,35 @@ button{
 }
 
 .paragraph{
+    display: block;
     font-style: normal;
-    font-weight: 900;
-    font-size: 18px;
-    line-height: 21px;
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.16rem;
     text-align: center;
     color: #000000;
-    margin-bottom: 1.4rem;
+    margin: 0 2.71rem 1.4rem 2.71rem;
+}
+
+#yoga-person{
+    display: block;
+    margin: 8.875rem auto 6.5rem auto;
+}
+
+.dots{
+    text-align: center;
+    margin-bottom: 5.06rem;
+}
+
+.dots div{
+    display: inline-block;
+}
+
+.dot{
+    width: 0.62rem;
+    height: 0.62rem;
+    background: #323232;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0;
 }
