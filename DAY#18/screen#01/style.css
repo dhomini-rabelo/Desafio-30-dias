@@ -12,3 +12,49 @@ body{
 .invisible{
     display: none;
 }
+
+#logo{
+    display: block;
+    margin: 12.18rem auto 7.62rem auto;
+}
+
+form{
+    width: 20rem;
+    text-align: right;
+    margin: 0 auto; 
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+    width: 20rem;
+    height: 2.87rem;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 0.62rem;
+    border: none;
+    outline: none;
+    text-indent: 1rem;
+}
+
+input::placeholder{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.81rem;
+    line-height: 0.93rem;
+    color: #969696;
+}
+
+#id_password{
+    margin-top: 1.31rem;
+}
+
+#forgot{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.81rem;
+    line-height: 0.93rem;
+    color: #000000;
+    text-decoration: none;
+    display: block;
+    padding: 0.4rem;
+}

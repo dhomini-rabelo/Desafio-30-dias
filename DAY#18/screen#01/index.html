@@ -7,23 +7,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Yoga</title>
 </head>
 <body>
     <div class="container">
 
         <header>
-            <img src="../assets/logo.svg" alt="logo">
+            <img src="../assets/logo.svg" alt="logo" id="logo">
         </header>
 
         <main>
             <form action="">
                 <label class="invisible" for="id_username"></label>
-                <input type="text" id="id_username" name="user-email">
+                <input type="text" id="id_username" name="user-email" placeholder="username">
                 <label class="invisible" for="id_password"></label>
-                <input type="password" id="id_password" name="user-password">
-                <a href="">Forgot password?</a>
-                <input type="submit" value="Login">
+                <input type="password" id="id_password" name="user-password" placeholder="password">
+                <a href="" id="forgot">Forgot password?</a>
+                <button type="submit">Login</button>
             </form>
             <a href="">Don’t have an account, Sign Up now.</a>
         </main>
