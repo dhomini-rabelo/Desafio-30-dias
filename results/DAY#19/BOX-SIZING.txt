@@ -1,0 +1,6 @@
+: Todos os elementos são caixas, com camadas
+content(conteúdo do elemento) -> padding(espaçamento) -> boder(borda da caixa) -> margin (margem da caixa)
+
+ = Box-sizing: border-box;
+ - deixa o tamanho do elemento igual o tamanho content+padding+border juntos,
+   ao invés do padrão que é só o content 
