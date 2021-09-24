@@ -1,0 +1,5 @@
+ = Client -> roda no celular e no pc -> front end
+ - Botões, menus, interface -> parte gráfica
+ = Server -> roda no servidor da aplicação -> back end
+ - Processa dados e informações consedidas pelo front end, fazendo a aplicação funcionar
+ = Full stack -> programador que entendo tanto do front end, quanto do back end
