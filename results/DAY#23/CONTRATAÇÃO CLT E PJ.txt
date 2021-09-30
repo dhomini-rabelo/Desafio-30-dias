@@ -1,0 +1,17 @@
+ = CLT - Consolidação das trabalhistas
+ - Empregador firma acordo associando a carteira de trabalho, garantindo direitos
+   como FGTS, seguro desemprego, etc.
+ - A empresa paga impostos em cima do salário do trabalhador
+ - O trabalhador deve pagar INSS e imposto de renda
+
+ = PJ
+ - Você abre uma empresa, no fim do mês você abre uma nota fiscal e o empregador
+   paga essa nota fiscal
+ - Paga algumas taxas, mas com valor menos impactantes que o CLT
+
+ = Sites do vídeo 
+ - https://www.idinheiro.com.br/calculadoras/calculadora-custo-de-funcionario-para-empresa/
+ - https://www.contabilizei.com.br/calculadora-clt-pj/ 
+
+
+
