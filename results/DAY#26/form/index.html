@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulário</title>
+</head>
+<body>
+    <div id="container">
+        <h1>Envie um email</h1>
+        <form action="https://formsubmit.co/tyrundeyou@gmail.com" method="POST">
+            <input type="hidden" name="_next" value="https://thanks-window.netlify.app">
+            <input type="text" name="name" placeholder="Digite seu nome" required>
+            <input type="email" name="email" placeholder="Digite seu email" required>
+            <textarea name="message" id="message" placeholder="Digite sua messagem"></textarea>
+            <button type="submit">Enviar</button>
+       </form>
+    </div>
+</body>
+</html>
