@@ -1,0 +1,25 @@
+ = TAG IMG
+ - src -> endereço da imagem
+ - alt -> nome da imagem caso imagem não carregue ou para leitor de página html
+ - width -> largura da imagem
+ - height -> altura da imagem
+
+ = TAG FIGURE
+ - Traz opção de tag figcaption que traz uma legenda para a imagem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
