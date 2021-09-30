@@ -1,0 +1,2 @@
+ = LÓGICA DE PROGRAMAÇÃO
+ - Passos lógicos para criar código, considerando a compreensão do computador
