@@ -30,7 +30,7 @@
 
 <li>
 <h3>Projeto com figma</h3>
-<img src="./readme/desktop.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 10px auto 0 0;">
+<img src="./readme/desktop.png" alt="project-result" style="max-width: 100%; display: block; margin: 10px auto 0 0;">
 <img src="./readme/mobile.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 30px auto 0 0;">
 </li><br>
 
