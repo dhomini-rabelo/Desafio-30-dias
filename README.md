@@ -18,8 +18,8 @@
 </li><br>
 
 <li>
-<h3>Playstation Store, <a href="https://playstation-store-project.netlify.app/">acesse aqui</a></h3>
-<img src="./readme/ps-pc.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 10px auto 0 0;">
+<h3>Playstation Store, <a href="https://playstation-store-project.netlify.app/" target="_blank">acesse aqui</a></h3>
+<img src="./readme/ps-pc.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 10px auto 0 0;"><br>
 <img src="./readme/ps-mobile.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 30px auto 0 0;">
 </li><br>
 
