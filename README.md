@@ -3,7 +3,7 @@
 30 dias consecutivos de estudo ou projeto. Acesse os códigos na pasta code, confira todos os resultados na pasta results.
 </p><br>
 
-<h2>Principais resultados</h2>
+<h2>Principais projetos</h2>
 <ul>
 
 <li>
@@ -18,7 +18,7 @@
 </li><br>
 
 <li>
-<h3>Playstation Store</h3>
+<h3>Playstation Store, <a href="https://playstation-store-project.netlify.app/">acesse aqui</a></h3>
 <img src="./readme/ps-pc.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 10px auto 0 0;">
 <img src="./readme/ps-mobile.PNG" alt="project-result" style="max-width: 100%; display: block; margin: 30px auto 0 0;">
 </li><br>
